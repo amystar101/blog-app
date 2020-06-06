@@ -1,0 +1,12 @@
+i.icon {
+    font-size: 2em;
+    margin-top: auto;
+}
+
+#delete {
+    display: inline;
+}
+
+body{
+    background-color:rgb(178, 212, 247);
+}
